@@ -1,5 +1,5 @@
 # Melhores atletas
 Riquelme
-<Ayton Senna>
+Ayrton Senna
 Emerson Fittipaldi
 Maria Sharapova
